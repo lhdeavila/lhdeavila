@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @lhdeavila
-- 👀 I’m interested in solutions for bussiness
-- 🌱 I’m currently learning r-cran
-- 💞️ I’m looking to collaborate on google
+**Technician in renewable energies** *(Mexican Swedish Institute of renewable energies)*
+<br>
+**Electrician technician** *(Cecaty.85)*
+<br>
+**Interior renderer** *(with Sketchup and kerkythea, I have some models on trimble with +500 downloads)*
 
-<!---
-lhdeavila/lhdeavila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+***Self-taught programmer since 2020***
+
+Originally from Coahuila, Mexico.
